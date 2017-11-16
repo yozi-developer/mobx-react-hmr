@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "moduleResolution": "node",
+    "target": "es5",
+    "jsx": "react",
+    "experimentalDecorators": true,
+    "sourceMap": true,
+    "allowSyntheticDefaultImports": false,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "importHelpers": true,
+    "strict": true,
+    "lib": [
+      "es6",
+      "dom"
+    ],
+    "paths": {
+    }
+  },
+  "exclude": [
+    "bin",
+    "node_modules"
+  ]
+}
